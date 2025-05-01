@@ -30,7 +30,7 @@ This involves all the steps i took in installing this software tools.
 
 
 # Visual Studio Code(VScode)
-1. Visit the Vscode website on your browser.
+1. Visit the Vscode website on your browser [Here](https://code.visualstudio.com/download)
 2. On the webpage, i clicked "Download for windows", because i use windows system.
 3. Located the downloaded.exe file, and double clicked to run the installer.
 4. Clicked "Next" through the installation wizard and all the remaining prompt.
@@ -45,7 +45,7 @@ This involves all the steps i took in installing this software tools.
 
 
 # GIT
-1. Visit the GIT website on your browser.
+1. Visit the GIT website on your browser [Here](https://git-scm.com/downloads)
 2. On the webpage, i clicked on the "Download for windows".
 3. Located the download.exe file, double clicked to run the installer.
 4. Lastly, i clicked "install" for the installation and after it was installed, i clicked "Finish" to complete installation.
@@ -54,7 +54,7 @@ This involves all the steps i took in installing this software tools.
 ![git](./img/2.%20git.png)
 
 # Virtual Box
-1. Visit the Oracle virtual box website on your browser.
+1. Visit the Oracle virtual box website on your browser [Here](https://www.virtualbox.org/)
 2. On the webpage, i clicked on the "Download for windows"
 3. Located the download.exe file, double clicked to run the installer.
 4. Cicked "Next" through the installation wizard and all the remaining prompt and i left every option to "default".
@@ -66,7 +66,7 @@ After the complete installation, i opened from start menu to launch the virtual 
 
 # Ubuntu (Linux Distro) on Virtual box
 
-1. Visit the ubuntu website on your broswer. 
+1. Visit the ubuntu website on your broswer [Here](https://ubuntu.com/download/desktop) 
 2. On the webpage,and i clicked "download for windows" to download the Ubuntu desktop ISO file.
 3. Launched the already installed virtual box.
 4. I clicked "New" to create a virtaul machine.
@@ -83,7 +83,8 @@ Note: For the complete installation, remove the installation media when prompted
 
 # Github Account
 
-1. Visit the github website on your browser.
+1. Visit the github website on your browser
+[Here](https://github.com/)
 
 2. On the webpage, i filled out the required information on the signup page, this involves your username, email address, and password.
 3. After entering my information, a verification message from github was sent to my email address for me to click and verify my email address.
@@ -96,8 +97,9 @@ Once i completed the above steps , i was redirected to my new github account.
 
 # Amazon Web Services (AWS) Account
 
-1. Visit the AWS Free Tier page on your browser.
-On the webpage, i clicked "Create an AWS Account" on the free tier page to create my account.
+1. Visit the AWS Free Tier page on your browser [Here](https://aws.amazon.com/free/?p=ft&z=subnav&loc=1&refid=bca0148a-d0f7-495b-96b3-1c83eeb4421d)
+
+2. On the webpage i clicked "Create an AWS Account" on the free tier page to create my account.
 
 2. After creating my Aws account, i filled in all the necessary account information, such as my contact information and credit card information for my payment details.
 3. After payment information confirmation and approval, i logged into the AWS Management console using my new account credentials.

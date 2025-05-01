@@ -25,7 +25,7 @@ Note: Every software i downloaded was the windows version, because i use windows
 
 
 ### Installation of Software Tools
-This involves all the steps i took in installing this software tools.
+This involves all the steps i took in installing these software tools.
 
 
 
@@ -34,7 +34,7 @@ This involves all the steps i took in installing this software tools.
 2. On the webpage, i clicked "Download for windows", because i use windows system.
 3. Located the downloaded.exe file, and double clicked to run the installer.
 4. Clicked "Next" through the installation wizard and all the remaining prompt.
-5. Lastly. i clicked "Install" for the installation and after the software was installed, i clicked "Finish" to complete the installation.
+5. Lastly, i clicked "Install" for the installation and after the software was installed, i clicked "Finish" to complete the installation.
 6. After complete installation, i launched the VScode to start, and the image below was gotten after lauching and setting up the VScode.
 
 ![vscode](./img/1.%20vscode.png)
@@ -59,7 +59,7 @@ This involves all the steps i took in installing this software tools.
 3. Located the download.exe file, double clicked to run the installer.
 4. Cicked "Next" through the installation wizard and all the remaining prompt and i left every option to "default".
 5. Lastly. i clicked "install" for the installation and after it was installed, i clicked "finish" to complete installation.
-After the complete installation, i opened from start menu to launch the virtual box.
+After the complete installation, i clicked "start menu" to launch the virtual box.
 
 ![virtualbox](./img/3.%20virtualbox.png)
 
@@ -67,10 +67,10 @@ After the complete installation, i opened from start menu to launch the virtual 
 # Ubuntu (Linux Distro) on Virtual box
 
 1. Visit the ubuntu website on your broswer [Here](https://ubuntu.com/download/desktop) 
-2. On the webpage,and i clicked "download for windows" to download the Ubuntu desktop ISO file.
+2. On the webpage, i clicked "download for windows" to download the Ubuntu desktop ISO file.
 3. Launched the already installed virtual box.
 4. I clicked "New" to create a virtaul machine.
-5. For configuration i chose linux as the type and ubuntu as the version. I created a virtual hard disk and chose "dynamic" for the virtual hard disk.
+5. For the configuration, i chose linux as the type and ubuntu as the version. Then i created a virtual hard disk and chose "dynamic" for the virtual hard disk.
 6. For the installation file, i chose the ubuntu.iso file that was downloaded from ubuntu website.
 7. Launched the virtual machine and started the ubuntu installation process.
 8.For the installation, i followed the on-screen instructions to install ubuntu, configuring the language, keyboard, user account, etc.
@@ -88,8 +88,8 @@ Note: For the complete installation, remove the installation media when prompted
 
 2. On the webpage, i filled out the required information on the signup page, this involves your username, email address, and password.
 3. After entering my information, a verification message from github was sent to my email address for me to click and verify my email address.
-Github asked me to complete a CAPTCHA to ensure that i am a human and not a robot.
-Githun offered different plans for both public and private repositories. I chose the free tier plan as a beginner.
+Github asked me to complete a CAPTCHA to prove that i am human and not a robot.
+Github then offered different plans for both public and private repositories, i chose the free tier plan as a beginner.
 Once i completed the above steps , i was redirected to my new github account.
 
 ![github](./img/5.%20github%20account.png)

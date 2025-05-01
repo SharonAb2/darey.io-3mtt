@@ -37,7 +37,7 @@ This involves all the steps i took in installing these software tools.
 5. Lastly, i clicked "Install" for the installation and after the software was installed, i clicked "Finish" to complete the installation.
 6. After complete installation, i launched the VScode to start, and the image below was gotten after lauching and setting up the VScode.
 
-![vscode](./img/1.%20vscode.png)
+![vscode welcome](./img/1.%20vscode%20welcome.png)
 
 
 
@@ -51,7 +51,9 @@ This involves all the steps i took in installing these software tools.
 4. Lastly, i clicked "install" for the installation and after it was installed, i clicked "Finish" to complete installation.
 5. After the complete installation, i launched GIT and the image below was gotten after launching and setting up GIT. 
 
-![git](./img/2.%20git.png)
+![git bash](./img/2.%20git%20bash.png)
+
+
 
 # Virtual Box
 1. Visit the Oracle virtual box website on your browser [Here](https://www.virtualbox.org/)
@@ -78,7 +80,7 @@ After the complete installation, i clicked "start menu" to launch the virtual bo
 Note: For the complete installation, remove the installation media when prompted, then power off the virtual machine, and ubuntu will boot to desktop as shown below, then you can enter the login credentials you created during the installation. Ubuntu will boot to desktop as shown below, then you can enter the login credentials you created during the installation.
 
 
-![ubuntu](./img/4.%20ubuntu.png)
+![uuntu distro](./img/4.%20ubuntu%20distro.png)
 
 
 # Github Account
@@ -105,7 +107,6 @@ Once i completed the above steps , i was redirected to my new github account.
 3. After payment information confirmation and approval, i logged into the AWS Management console using my new account credentials.
 4. Lastly, i began exploring the free tier services and also to understand the limitations of each services e.g EC2, S3 and more.
 
-![aws](./img/7.%20aws%20free%20tier.png)
+![Amazon Aws](./img/6.%20Amazon%20Aws.png)
 
 
-![aws](./img/6.%20aws.png)
